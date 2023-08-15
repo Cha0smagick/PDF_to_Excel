@@ -1,0 +1,5 @@
+PyPDF2 
+camelot-py[cv] 
+tabula-py 
+pandas 
+openpyxl
